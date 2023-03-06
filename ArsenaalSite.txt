@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ARSENAALSITE</title>
+	</head>
+  <body>
+    <h1>Arsenaal Site</h1>
+    <div id="introduction">
+      <h2>Bezemkruiskruid</h2>
+	  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Senecio_inaequidens_1.jpg" />
+      <p>Bezemkruiskruid (Jacobaea vulgaris, voorheen Senecio jacobaea) is een plantensoort uit de composietenfamilie (Asteraceae). Het is een meerjarige plant die inheems is in Europa, Azië en delen van Noord-Afrika. De plant groeit op open plekken in graslanden, bermen, duinen en langs wegen en is te vinden op zowel droge als vochtige grond.
+
+Bezemkruiskruid heeft stengels die rechtop groeien en tot 1,5 meter hoog kunnen worden. De bladeren zijn geveerd en hebben een grijsgroene kleur. De bloemen zijn geel en vormen samen ronde bloeiwijzen die aan het einde van de stengels groeien. De bloeitijd is van juni tot september.
+
+Hoewel bezemkruiskruid een mooie plant is, bevat het pyrrolizidine-alkaloïden die giftig kunnen zijn voor mens en dier. Inname van deze stoffen kan leiden tot leverschade en in ernstige gevallen zelfs tot de dood. De plant wordt daarom vaak beschouwd als een onkruid en wordt bestreden op plaatsen waar dieren grazen.</p>
+      <h3></h3>
+      <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+      <h3></h3>
+      <p>
+    <div id="habitat">
+      <h2></h2>
+      <h3></h3>
+      <ol>
+        <li></li>
+        <li> </li>
+        <li></li>
+      </ol>
+      <h3>     </h3>
+      <p></p>
+    </div>
+    <div id="media">
+      <h2></h2>
+      
+      <video src="" width="320" height="240" controls>Video not supported</video>
+    </div>
+  </body>
+</html>
